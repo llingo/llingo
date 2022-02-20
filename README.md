@@ -1,16 +1,14 @@
 ### Hi there 👋
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seu0313)](https://solved.ac/seu0313)
 
-<!--
-**llingo/llingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1478A7?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-065535?style=flat-square&logo=Django&logoColor=white)
 
-Here are some ideas to get you started:
+- **E-mail**: llingo@kakao.com
+- 🌱 I’m currently learning `Swift` `iOS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llingo&layout=compact)
+
+![Lingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=llingo&show_icons=true&theme=tokyonight)

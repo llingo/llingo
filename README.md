@@ -9,6 +9,6 @@
 - **E-mail**: llingo@kakao.com
 - 🌱 I’m currently learning `Swift` `iOS`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llingo&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llingo&layout=compact) -->
 
 ![Lingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=llingo&show_icons=true&theme=tokyonight)

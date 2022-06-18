@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-1478A7?style=flat-square&logo=Python&logoColor=white)
 
 - **E-mail**: llingo@kakao.com
-- 🌱 I’m currently learning `Swift` `iOS`
+- 🌱 I’m currently learning `Swift` `iOS` `RxSwift` `Combine`
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llingo&layout=compact) -->
 
